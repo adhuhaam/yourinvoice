@@ -1,4 +1,4 @@
-# yourinvoice
+# ✌️ invoice 
 
 1. Import yourinvoice.sql to your database.
 2. Edit config.php with your database and hosting info.
